@@ -1,0 +1,18 @@
+admin|cisco|0|0
+//LIL y LBL
+1|2|3|4|5|6.....
+//INODO
+Archivo1|100|12 de sept|13 de sep|0|rwx
+Archivo1|100|12 de sept|13 de sep|0|rwx
+Archivo1|100|12 de sept|13 de sep|0|rwx
+Archivo1|100|12 de sept|13 de sep|0|rwx
+Archivo1|100|12 de sept|13 de sep|0|rwx
+Archivo1|100|12 de sept|13 de sep|0|rwx
+Archivo1|100|12 de sept|13 de sep|0|rwx
+Archivo1|100|12 de sept|13 de sep|0|rwx
+Archivo1|100|12 de sept|13 de sep|0|rwx
+Archivo1|100|12 de sept|13 de sep|0|rwx
+Archivo1|100|12 de sept|13 de sep|0|rwx
+//DIRECTORIOS
+Directorio1|19|[1,2,0,0,0,0,0,0,0,0]|[Archivo1|Archivo2|"","","","","","","",""]|False
+.....

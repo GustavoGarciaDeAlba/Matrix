@@ -1,0 +1,20 @@
+{%extends 'base.html'%}
+
+
+{%block titulo%}Iniciar sesión{%endblock%}
+
+{%block principal%}
+    <h1>Inicio de sesión</h1>
+    <form action="" method="POST" id="formLogin" >
+        <fieldset>
+            <legend>Iniciar sesión</legend>
+            <p>
+                <input type="text" name="txtUsuario" placeholder="Usuario">
+            </p>
+            <p>
+                <input type="password" name="txtpwd" placeholder="Contraseña">
+            </p>
+            <button type="submit">Ingresar</button>
+        </fieldset>
+    </form>
+{%endblock%}

@@ -1,0 +1,15 @@
+{%extends 'base.html'%}
+
+{%block principal%}
+        <h1>Testing Ground</h1>
+        <div id="testingTerminal">
+        </div>
+{%endblock%}
+{%block after_script%}
+        <script>
+            //Necesitamos estar actualizando constantemente [inodo_del_direcotio_actual]
+            $(document).ready(function(){
+                updatingTests()     
+            });
+        </script>
+{%endblock%}
